@@ -2,7 +2,7 @@
 
 Discover, play, and enjoy your favorite tunes effortlessly with our music player app. Easily find songs in your music folder, pick up right where you left off with recent plays, and create personalized playlists to suit every mood. Your music, your way.           
                     
-View Live Site [here]()
+View Live Site [here](https://emi-music-web.onrender.com/)
 
 ![Website](./emimusicss.JPG)
 
